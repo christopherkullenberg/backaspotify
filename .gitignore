@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Original data
+original_data_and_manuscript/
+
 # Distribution / packaging
 .Python
 build/
