@@ -1,6 +1,6 @@
 # The Political Significance of Spotify - Anonymized data and source code
 
-This repository contains the necessary code for reproducing most figures in Fleischer & Kullenberg (2018) "The Political Significance of Spotify in Sweden - Analysing the #backaspotify Campaign using Twitter Data", *Culture Unbound*, Vol, No.
+This repository contains the necessary code for reproducing most figures in Fleischer & Kullenberg (2018) "[The Political Significance of Spotify in Sweden - Analysing the #backaspotify Campaign using Twitter Data](http://www.cultureunbound.ep.liu.se/article.asp?DOI=10.3384/cu.2000.1525.20180918)", *Culture Unbound*, Volume 10, issue 2, DOI 10.3384/cu.2000.1525.20180918.
 
 Even though the Twitter data was retrieved from the public-facing Twitter API, it has been anonymized cryptographically (see Appendix in the [notebook](https://github.com/christopherkullenberg/backaspotify/blob/master/DataAnalysis.ipynb)). The usernames and user IDs have been replaced with hashsums and the content data (Twitter messages) have been disconnected into a separate file where it has been re-ordered to prevent the content data to be connected with the meta-data. 
 
